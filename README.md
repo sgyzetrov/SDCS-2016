@@ -10,6 +10,6 @@
 
 | Chapter 1 | Chapter 2 | Chapter 3| Chapter 4 | Chapter 5 | Chapter 6 | 
 | --------- | --------- | --------- | --------- | --------- | -------- | 
-|[Algorithm](https://github.com/linw7/SDCS_2016/tree/master/Algorithm)|[Data-Mining](https://github.com/linw7/SDCS_2016/tree/master/Data-Mining)|[Digital-Image](https://github.com/linw7/SDCS_2016/tree/master/Digital-Image)|[Multimedia](https://github.com/linw7/SDCS_2016/tree/master/Multimedia)|[Network](https://github.com/linw7/SDCS_2016/tree/master/Network)|[Other](https://github.com/linw7/SDCS_2016/tree/master/Other)|
+|[Algorithm](https://github.com/sgyzetrov/SDCS-2016/tree/master/Algorithm)|[Data-Mining](https://github.com/sgyzetrov/SDCS-2016/tree/master/Data-Mining)|[Digital-Image](https://github.com/sgyzetrov/SDCS-2016/tree/master/Digital-Image)|[Multimedia](https://github.com/sgyzetrov/SDCS-2016/tree/master/Multimedia)|[Network](https://github.com/sgyzetrov/SDCS-2016/tree/master/Network)|[Other](https://github.com/sgyzetrov/SDCS-2016/tree/master/Other)|
 
 *TeeKee*
